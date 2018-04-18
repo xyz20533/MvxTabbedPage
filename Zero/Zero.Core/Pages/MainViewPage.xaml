@@ -7,7 +7,6 @@
                    NavigationPage.HasNavigationBar="True"
                    NavigationPage.HasBackButton="False"
                   >
-   
 
     <!--<Grid>
         <Grid VerticalOptions="EndAndExpand">
